@@ -8,6 +8,8 @@ These are the languages I use in my personal projects:
 
 Additionally, I wrote a lot of Typescript and Java code in repos under other organizations;
 
+If you want to send me an email, my email is `{first_name}.{last_name}314@gmail.com`.
+
 <!--
 I am comfortable with (in approximate order of experience):
 
