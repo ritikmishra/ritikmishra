@@ -1,3 +1,7 @@
+<img src="https://mishra.farm/images/try/if_only_you_knew_how_good_things_really_are.gif" />
+
+---
+
 These are the languages I use in my personal projects:
 
 <img class="fit-picture" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikMishra&layout=compact&exclude_repo=toastonly">
