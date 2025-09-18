@@ -7,7 +7,7 @@ These are the languages I use in my personal projects:
 <img class="fit-picture" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikMishra&layout=compact&exclude_repo=toastonly">
 
 ## lore
-- currently i'm on a quest! :3 but hopefully you can sense what flavor it is from my public gh activity
+- i work at a small electronics company in San Francisco writing firmware for highly efficient electronics
 - I wrote a little toolpathing software at [Freeform](https://freeform.co) for a LPBF 3D printer using highly parallel MATLAB.
 - I wrote a bunch of bare-metal firmware + realtime vehicle software in Rust at [Parallel Systems](https://moveparallel.com)
 - In college, I competed in 7 hackathons, doing a number of them with [my friends](https://github.com/Minihacks).
