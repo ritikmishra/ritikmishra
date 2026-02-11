@@ -1,10 +1,9 @@
-<img src="https://mishra.farm/images/try/if_only_you_knew_how_good_things_really_are.gif" />
+<img src="https://mishra.farm/images/rat_impulse_sweep.png" />
 
 ---
 
-These are the languages I use in my personal projects:
-
-<img class="fit-picture" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikMishra&layout=compact&exclude_repo=toastonly">
+I write most of my code in Rust and Python if I can help it. 
+Back in the day, I used to write a lot of Typescript, Java, and C++ (in the context of ROS specifically), but it has been a few years.
 
 ## lore
 - i work at a small electronics company in San Francisco writing firmware for efficient power electronics
