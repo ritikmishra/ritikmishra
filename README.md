@@ -6,7 +6,7 @@ I write most of my code in Rust and Python if I can help it.
 Back in the day, I used to write a lot of Typescript, Java, and C++ (in the context of ROS specifically), but it has been a few years.
 
 ## lore
-- i work at a small electronics company in San Francisco writing firmware for efficient power electronics
+- these days, i'm making power electronics in san francisco
 - I wrote a little toolpathing software at [Freeform](https://freeform.co) for a LPBF 3D printer using parallelized MATLAB.
 - I wrote a bunch of bare-metal firmware + realtime vehicle software in Rust at [Parallel Systems](https://moveparallel.com)
 - In college, I competed in 7 hackathons, doing a number of them with [my friends](https://github.com/Minihacks).
